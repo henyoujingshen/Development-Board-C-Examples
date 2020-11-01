@@ -1,5 +1,8 @@
-﻿## 概述
-### 软件环境
+﻿## 唐呼博成：这是第三小组的FInal project 样例代码库，软件组成员拥有direct access权利，在本地可以直接修改其中的内容。
+ 原则：
+ 1.任何修改都需要“comment”,表明修改目的和意图。
+ 2.修改前需要与小组成员进行沟通，切不可胡乱修改。
+ ### 软件环境
  - Toolchain/IDE : MDK-ARM V5
  - STM32F4xx_DFP Packs:2.13.0
  - STM32CubeMx:5.2.1
