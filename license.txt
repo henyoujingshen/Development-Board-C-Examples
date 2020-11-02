@@ -1,4 +1,4 @@
-hello
+Hello
 from group 3
 
 Copyright (C) 2019 RoboMaster.
